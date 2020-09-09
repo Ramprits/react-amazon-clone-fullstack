@@ -4,10 +4,12 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Checkout from "./pages/Checkout";
+import Header from "./Components/header";
 
 const App = () => {
   return (
     <>
+      <Header />
       <Switch>
         <Route path="/about" component={About} />
         <Route path="/about" component={Contact} />
