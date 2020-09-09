@@ -10,4 +10,4 @@ const renderWithRouter = (component) => {
   };
 };
 
-it("should render the About page", () => {});
+it("should render the Product Component page 🚀", () => {});

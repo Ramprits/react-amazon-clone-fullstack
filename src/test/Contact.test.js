@@ -10,4 +10,4 @@ const renderWithRouter = (component) => {
   };
 };
 
-it("should render the home page", () => {});
+it("should render the Contact page", () => {});
